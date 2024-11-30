@@ -5,9 +5,13 @@ The PasswordManager is a Java console application designed to help users securel
 
 Features:
 Add User: Allows users to create a new account by entering a username and password, with passwords being hashed for security.
+
 Authenticate User: Users can log in by providing their username and password, with the application verifying the hashed password.
+
 Input Validation: Ensures user input is valid, providing error messages for invalid choices.
+
 Exit Option: Users can exit the application gracefully.
+
 
 
 Purpose:
