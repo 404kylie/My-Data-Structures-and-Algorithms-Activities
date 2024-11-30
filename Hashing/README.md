@@ -1,3 +1,5 @@
+Password Manager
+
 Introduction:
 The PasswordManager is a Java console application designed to help users securely manage their usernames and passwords. It employs a hash table to store user credentials, ensuring that passwords are hashed and not stored in plain text. This application serves as a basic example of user authentication and password management.
 
